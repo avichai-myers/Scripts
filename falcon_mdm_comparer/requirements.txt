@@ -1,0 +1,5 @@
+requests
+jq
+falconpy
+bota3
+awscli

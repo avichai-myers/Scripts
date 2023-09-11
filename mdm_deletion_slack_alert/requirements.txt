@@ -1,0 +1,4 @@
+requests
+jq
+bota3
+awscli
